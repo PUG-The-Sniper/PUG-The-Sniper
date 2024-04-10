@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **the things i love and other stuff that i may have interest in.**
 
-- 📫 How to reach me **aswdyey@gmail.com**
+- 📫 How to reach me: **aswdyey@gmail.com**
 
-- ⚡ Fun fact **I play instruments like guitar, piano, ukulele and etc. And I like to fix technology as well<3**
+- ⚡ Fun fact!: **I play instruments like guitar, piano, ukulele and etc. And I like to fix technology as well<3**
 
 <p align="left">
 </p>
