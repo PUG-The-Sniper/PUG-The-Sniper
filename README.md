@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I play instruments like guitar, piano, ukulele and etc. And I like to fix technology as well<3**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
