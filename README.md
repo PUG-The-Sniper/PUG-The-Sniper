@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pug-the-sniper&label=Profile%20views&color=0e75b6&style=flat" alt="pug-the-sniper" /> </p>
 
-- 🔭 I’m currently working on [our 4'th quarter output](https://drive.google.com/drive/folders/1XeW3Q7A87j7QQfpNC5m27Nc4PAoxw-OV?usp=drive_link)
+- 🔭 I’m currently working on [our 4'th quarter output]()
 
 - 🌱 I’m currently learning **mysql and php!**
 
