@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rommel (also known as SNP/Mark)</h1>
 <h3 align="center">A starting frontend and backend developer from PH!</h3>
+<h3 align="center">A JHS Grade 9 Student From Escuela Catolica de San Sebastian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pug-the-sniper&label=Profile%20views&color=0e75b6&style=flat" alt="pug-the-sniper" /> </p>
 
